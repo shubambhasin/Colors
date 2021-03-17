@@ -979,6 +979,10 @@ hr
 @media screen and (max-width: 375px)
 {
 
+  body{
+    width: 95%;
+  }
+
   .btn {
     font-size: 0.7rem;
     text-align: center;
